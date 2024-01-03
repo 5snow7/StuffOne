@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>StuffOne</name>
+	<name>StuffTwo</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -11,7 +11,7 @@
 			</arguments>
 		</buildCommand>
 	</buildSpec>
-	<natures>
+	<natures>   
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 </projectDescription>
